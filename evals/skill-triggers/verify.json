@@ -1,0 +1,17 @@
+{
+  "skill": "verify",
+  "should_trigger": [
+    "/scar:verify",
+    "did that rule actually help?",
+    "bu kural işe yaradı mı, ölç",
+    "kurallarımı gözden geçir, hangileri boşuna duruyor",
+    "check whether the guardrails I added are being followed",
+    "which of my CLAUDE.md rules can I delete?"
+  ],
+  "should_not_trigger": [
+    "find the errors that keep recurring",
+    "write a rule for this failure",
+    "run the test suite",
+    "how often did each skill fire?"
+  ]
+}

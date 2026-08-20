@@ -1,0 +1,17 @@
+{
+  "skill": "write",
+  "should_trigger": [
+    "/scar:write scar-0eqc684",
+    "bunu bir daha yaşamayalım, kural olarak yaz",
+    "add this to CLAUDE.md so it does not happen again",
+    "turn that recurring failure into a guardrail",
+    "bu hata için bir regresyon testi yazalım",
+    "make a rule out of the heredoc problem"
+  ],
+  "should_not_trigger": [
+    "which failures keep repeating?",
+    "is that rule working?",
+    "review my skills for mistakes",
+    "commit these changes"
+  ]
+}

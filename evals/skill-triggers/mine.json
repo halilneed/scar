@@ -1,0 +1,17 @@
+{
+  "skill": "mine",
+  "should_trigger": [
+    "/scar:mine",
+    "why do we keep hitting the same error?",
+    "hep aynı hataya takılıyoruz, çıkar bakalım neymiş",
+    "what trips my agent up most often across projects?",
+    "CLAUDE.md yazacağım, hangi kuralları koymam gerektiğini geçmişten çıkar",
+    "show me the failures that repeat across sessions"
+  ],
+  "should_not_trigger": [
+    "write this lesson into CLAUDE.md",
+    "did the rule I added last month actually help?",
+    "what did the agent do in that session?",
+    "fix the failing test in this repo"
+  ]
+}

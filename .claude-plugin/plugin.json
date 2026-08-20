@@ -1,0 +1,13 @@
+{
+  "name": "scar",
+  "displayName": "Scar",
+  "version": "0.1.0",
+  "description": "Turns recurring agent failures into lessons the repo remembers. Mines local session logs from Claude Code, Codex CLI and Gemini CLI for error patterns that repeat across separate sessions, drafts a rule, regression-test brief, environment fix or decision record for each, and then measures whether the written lesson actually stopped the failure. No network calls, no quota, and it never writes into your repo on its own.",
+  "author": {
+    "name": "Halil Ataş",
+    "url": "https://github.com/hailneed"
+  },
+  "repository": "https://github.com/hailneed/scar",
+  "license": "MIT",
+  "keywords": ["agent-observability", "failures", "regression", "rules", "claude-code", "codex", "gemini-cli", "postmortem", "local-first"]
+}
