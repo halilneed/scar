@@ -8,6 +8,8 @@
 >
 > *English summary below.*
 
+**Site:** https://hailneed.github.io/scar/
+
 `agent-blackbox` **ne yanlış gitti** der. `scar` **bir daha olmasın** yazar — ve sonra
 işe yarayıp yaramadığını ölçerek döngüyü kapatır.
 
@@ -123,6 +125,7 @@ bağlayabilirsin; çıktı formatı sabittir ve `--selftest` ağ gerektirmez.
 - **Scar Cloud (ücretli, opsiyonel):** ekip genelinde yara izi havuzu — bir kişinin çarptığı
   duvar herkesin kuralına dönüşür; kural etkinliği zaman serisi; yeni gelen için "bu depoda
   bilinen tuzaklar" özeti. Plugin ücretsiz kalır.
+  Bekleme listesi: https://hailneed.github.io/scar/#cloud
 
 Bu depo `agentlens` ailesinin parçası: adaptör katmanı `agent-blackbox` ile paylaşılır,
 kanonik kopya orada durur.
