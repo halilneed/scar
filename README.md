@@ -8,7 +8,7 @@
 >
 > *English summary below.*
 
-**Site:** https://hailneed.github.io/scar/
+**Site:** https://halilneed.github.io/scar/
 
 `agent-blackbox` **ne yanlış gitti** der. `scar` **bir daha olmasın** yazar — ve sonra
 işe yarayıp yaramadığını ölçerek döngüyü kapatır.
@@ -85,7 +85,7 @@ o tarihten önceki/sonraki tekrarlarını sayar. Dört hüküm üretir:
 
 ```
 # Claude Code içinde, bir kez marketplace ekle:
-/plugin marketplace add hailneed/plugins
+/plugin marketplace add halilneed/plugins
 /plugin install scar@hailneed
 ```
 
@@ -100,7 +100,7 @@ Gereksinim: Claude Code + Node.js 18+. Bağımlılık yok, API anahtarı yok.
 ## Plugin'siz kullanım
 
 ```
-git clone https://github.com/hailneed/scar
+git clone https://github.com/halilneed/scar
 cd scar
 
 node scripts/scar.mjs --mine --md                 # tekrar eden hatalar
@@ -125,7 +125,7 @@ bağlayabilirsin; çıktı formatı sabittir ve `--selftest` ağ gerektirmez.
 - **Scar Cloud (ücretli, opsiyonel):** ekip genelinde yara izi havuzu — bir kişinin çarptığı
   duvar herkesin kuralına dönüşür; kural etkinliği zaman serisi; yeni gelen için "bu depoda
   bilinen tuzaklar" özeti. Plugin ücretsiz kalır.
-  Bekleme listesi: https://hailneed.github.io/scar/#cloud
+  Bekleme listesi: https://halilneed.github.io/scar/#cloud
 
 Bu depo `agentlens` ailesinin parçası: adaptör katmanı `agent-blackbox` ile paylaşılır,
 kanonik kopya orada durur.
@@ -153,7 +153,7 @@ report says so.
 API key, no quota. The script drafts; you decide what lands. Node.js 18+, no dependencies.
 
 ```
-/plugin marketplace add hailneed/plugins
+/plugin marketplace add halilneed/plugins
 /plugin install scar@hailneed
 ```
 
